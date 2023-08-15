@@ -22,7 +22,7 @@ Back-end for Advertisement application like Avito
 ## Start app
 1. Clone project
    ```
-   git clone https://github.com/AndrewIsaev/Advertisement_Service.git
+   git clone https://github.com/RusinVladislav/Advertisement_Service_like_Avito
 2. Run app
    ```
     ./manage.py runserver
